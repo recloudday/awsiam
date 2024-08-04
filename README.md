@@ -11,7 +11,7 @@ When logged in as user3, with admin privileges, I successfully stopped the EC2 i
 
 - <b>AWS - IAM</b>
 - <b>Managing User Permissions</b>
-- <b>Access Control/b>
+- <b>Access Control</b>
 
 <h2>Environments Used </h2>
 
